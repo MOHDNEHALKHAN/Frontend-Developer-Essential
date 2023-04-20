@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(246, 255, 0);
+}
+h1{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: x-large;
+    font-variant: small-caps;
+}
+li{
+    color:black;
+}
+hr{
+    height: 2px;
+    color: black;
+    
+}
+ol li {
+font-size: 25px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  div
+  {
+    display: flex;
+justify-content: center;
+align-items: center;
+  }

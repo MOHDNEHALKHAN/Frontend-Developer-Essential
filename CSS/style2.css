@@ -1,0 +1,39 @@
+body{
+    background-color: #F9D949;
+}
+
+.container
+{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+  
+ #first {
+    border: 1px solid;
+    background-color: #87CBB9;
+  }
+ #second {
+    border: 1px solid ;
+    background-color: #FA9884;
+  }
+  
+  #third {
+    border: 1px solid;
+    background-color: #FFBF9B;
+  }
+  #four {
+    border: 1px solid;
+    background-color: #AA77FF;
+  }
+  h1{
+    font-family: 'Courier New', Courier, monospace;
+  }
+  li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  ul{
+    font-family: candara;
+  }
+  

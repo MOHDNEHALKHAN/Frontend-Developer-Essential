@@ -1,0 +1,21 @@
+div{
+    text-align: center;
+    margin: auto;
+        width: 50%;
+        padding-top: 200px;       
+}
+thead{
+    background-color: aquamarine;
+    color: black;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#heading{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    color: gold;
+}
+body
+{
+    background-color:lightyellow;
+}
